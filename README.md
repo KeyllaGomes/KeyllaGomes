@@ -2,7 +2,7 @@
 # Olá Pessoal! Sou a Keylla Gomes
 
 - 🔭 Estou em busca de novas oportunidades
-- 🌱 Atualmente estou estudando Python, PHP, CSS e Java Script
+- 🌱 Desenvolvedor Full Stack (HTML, CSS, JavaScript, TypeScript React e Node js)
 - 📫 Para entrar em contato comigo use o email: Keyllagomesx@gmail.com ou keyllakauanegomes@gmail.com
 - 😄 Pronouns: ela/dela
 
@@ -10,6 +10,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keylla-k-gomes)
 <a href="mailto: keyllakauanegomes@gmail.com">
+<a href="mailto: Keyllagomesx@gmail.com">
 <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
 
