@@ -1,5 +1,5 @@
 
-# Olá Pessoal! :Sou a Keylla Gomes:
+# Olá Pessoal! Sou a Keylla Gomes
 
 - 🔭 Estou em busca de novas oportunidades
 - 🌱 Atualmente estou estudando Python, PHP, CSS e Java Script
@@ -24,5 +24,5 @@
 
 > Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyllaGomes&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
