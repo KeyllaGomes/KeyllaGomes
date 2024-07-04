@@ -23,7 +23,7 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
+> Seja Bem Vindo (a)! veja algumas das linguagens e framework que utilizei em meus projetos:
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyllaGomes&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
